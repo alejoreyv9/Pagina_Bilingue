@@ -25,4 +25,10 @@ footer {
  width: 100%;
 }
 
+#seleccion {
+ width: 940px;
+ margin: 0 auto;
+ color: white;
+}
+
 /* Personaliza el estilo según tus preferencias */
